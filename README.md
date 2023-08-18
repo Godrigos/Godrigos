@@ -17,7 +17,9 @@ I live in Brazil and work at The Federal University of Paraná.
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## Status
-![Godrigos's GitHub stats](https://github-readme-stats.vercel.app/api?username=godrigos&show_icons=true&theme=radical)
+![Godrigos's GitHub stats](https://github-readme-stats.vercel.app/api?username=godrigos&show_icons=true&theme=monokai)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godrigos&hide_progress=false&theme=monokai&layout=compact)
 
 ### Support my work
 ![Keybase BTC](https://img.shields.io/keybase/btc/godrigos?color=orange&label=BTC)
