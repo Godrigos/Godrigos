@@ -1,6 +1,6 @@
 I'm @Godrigos, a biologist and enthusiast of programming, bioinformatics and biostatistics.
 
-I’m currently learning mobile development with dart/flutter, but I also have interest in Phyton, Go, C++ and R.
+I’m currently work with Phyton and R. But I also have knowledge of Go, Dart/Flutter and C++.
 
 I live in Brazil and work at The Federal University of Paraná.
 
