@@ -18,10 +18,13 @@ I live in Brazil and work at The Federal University of Paraná.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Status
+<div align='center'>
+
 ![Godrigos Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godrigos&theme=monokai)
 
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=godrigos&theme=monokai)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=godrigos&theme=monokai)
+</div>
 
 ### Support my work
 ![Keybase BTC](https://img.shields.io/keybase/btc/godrigos?color=orange&label=BTC)
