@@ -1,3 +1,5 @@
+![Welcome](./Welcome_Banner.png)
+
 # Who am I?
 I'm Rodrigo (@Godrigos), a biologist and enthusiast of programming, bioinformatics and biostatistics.
 
