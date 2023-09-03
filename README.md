@@ -32,4 +32,4 @@ I live in Brazil and work at The Federal University of Paraná.
 </div>
 
 ### Support my work
-![Keybase BTC](https://img.shields.io/keybase/btc/godrigos?color=orange&label=BTC)
+![Lightning Address](https://img.shields.io/badge/gambit%40getalby.com-black?style=for-the-badge&logo=bitcoin&label=LNT&labelColor=black&color=orange)
