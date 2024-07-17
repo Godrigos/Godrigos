@@ -37,4 +37,4 @@ I live in Brazil and work at The Federal University of Paraná.
 </div>
 
 ### Support my work
-![Lightning Address](https://img.shields.io/badge/gambit%40getalby.com-black?style=for-the-badge&logo=bitcoin&label=LN&labelColor=black&color=orange)
+![Lightning Address](https://img.shields.io/badge/gambit%40minibits.cash-black?style=for-the-badge&logo=bitcoin&label=LN&labelColor=black&color=orange)
