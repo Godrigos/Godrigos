@@ -5,6 +5,8 @@ I'm Rodrigo (@Godrigos), a biologist and enthusiast of programming, bioinformati
 
 I live in Brazil and work at The Federal University of Paraná.
 
+PGP: 16da52606be5bb5027a4ca89813a27c016233097
+
 ## I currently work with
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
