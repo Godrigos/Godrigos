@@ -37,6 +37,3 @@ PGP: 16da52606be5bb5027a4ca89813a27c016233097
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=godrigos&theme=monokai)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=godrigos&theme=monokai)
 </div>
-
-### Support my work
-![Lightning Address](https://img.shields.io/badge/gambit%40minibits.cash-black?style=for-the-badge&logo=bitcoin&label=LN&labelColor=black&color=orange)
